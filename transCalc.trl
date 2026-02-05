@@ -1,0 +1,226 @@
+#Fichier .roi_name_templates
+# Les definitions sont user dependantes.
+# Les Tetes de menus sont precedes de $ et les sous menus de %
+# Disponible : 16 menus principaux
+#			16 items par menu principal
+#			(La longueur d'un item est < 32 cars.)
+$CENTRAL
+%S.C.			unknown
+%S.C.sup.		unknown
+%S.C.inf.		unknown
+%S.C.sup.r.GPoC.	unknown
+%S.C.sup.r.GPeC.	unknown
+%S.C.inf.r.GPoC.	unknown
+%S.C.inf.r.GPeC.	unknown
+%S.C.sylvian.           unknown
+$F.C.L.
+%F.C.L.a.		unknown
+%F.C.L.r.ant.		unknown
+%F.C.L.r.asc.		unknown
+%F.C.L.p.		unknown
+%F.C.L.r.diag.		unknown
+%F.C.L.r.sc.ant.	unknown
+%F.C.L.r.sc.post.	unknown
+%F.C.L.r.retroC.tr.	unknown
+%F.C.L.r.temp.t.	unknown
+%F.C.L.r.temp.t.post.   unknown
+%F.C.L.r.temp.t.int.	unknown
+%F.C.L.r.temp.t.ant.	unknown
+%F.C.L.r.ter.asc.	unknown
+%F.C.L.r.ter.desc.	unknown
+$PRECENTRAL
+%S.Pe.C.		unknown
+%S.Pe.C.median.		unknown
+%S.Pe.C.marginal.	unknown
+%S.Pe.C.sup.		unknown
+%S.Pe.C.sup.r.GPeC.	unknown
+%S.Pe.C.inter.		unknown
+%S.Pe.C.inter.r.GPeC.	unknown
+%S.Pe.C.inf.		unknown
+%S.Pe.C.inf.r.GPeC.	unknown
+$PREFRONTAL
+%S.F.x.			unknown
+%S.F.median.		unknown
+%S.F.median.1.		unknown
+%S.F.median.2.		unknown
+%S.F.median.3.		unknown
+%S.F.median.4.		unknown
+%S.F.sup.		unknown
+%S.F.sup.ant.		unknown
+%S.F.sup.ant.r.asc.	unknown	
+%S.F.sup.ant.r.desc.	unknown
+%S.F.sup.moy.		unknown
+%S.F.sup.moy.r.asc.	unknown
+%S.F.sup.moy.r.desc.	unknown
+%S.F.sup.post.		unknown
+%S.F.sup.post.r.asc.	unknown
+%S.F.sup.post.r.desc.	unknown
+%S.F.sup.r.asc.		unknown
+%S.F.sup.r.desc.	unknown
+%S.F.inter.		unknown
+%S.F.inter.ant.		unknown
+%S.F.inter.ant.r.asc.	unknown
+%S.F.inter.ant.r.desc.	unknown
+%S.F.inter.moy.		unknown
+%S.F.inter.moy.r.asc.	unknown
+%S.F.inter.moy.r.desc.	unknown
+%S.F.inter.post.	unknown
+%S.F.inter.post.r.asc.	unknown
+%S.F.inter.post.r.desc.	unknown
+%S.F.inter.r.asc.	unknown
+%S.F.inter.r.desc.	unknown
+%S.F.inf.		unknown
+%S.F.inf.ant.		unknown
+%S.F.inf.ant.r.asc.	unknown
+%S.F.inf.ant.r.desc.	unknown
+%S.F.inf.moy.		unknown
+%S.F.inf.moy.r.asc.	unknown
+%S.F.inf.moy.r.desc.	unknown
+%S.F.inf.post.		unknown
+%S.F.inf.post.r.asc.	unknown
+%S.F.inf.post.r.desc.	unknown
+%S.F.inf.r.asc.		unknown
+%S.F.inf.r.desc.	unknown
+%S.F.inf.r.tr.		unknown
+%S.F.polaire.tr.	unknown
+%S.F.polaire.tr.sup.	unknown
+%S.F.polaire.tr.moy.	unknown
+%S.F.polaire.tr.inf.	unknown
+%S.F.marginal.		unknown
+%S.F.orbitaire.		unknown
+%S.Olf.			unknown
+%S.Or.			unknown
+%S.Or.l.		unknown
+$FACEINTERNE.F
+%S.p.Olf.ant.		unknown
+%S.F.int.pol.		unknown
+%S.F.int.sup		unknown
+%S.F.int.AMS		unknown
+# celui-la pour retraduction interne
+%S.F.int.		unknown
+%S.R.sup.		unknown
+%S.R.inf.		unknown
+%F.C.M.			unknown
+%F.C.M.inf.		unknown
+%F.C.M.asc.		unknown
+%F.C.M.sup.r.asc.ant.	unknown
+%F.C.M.sup.		unknown
+%F.C.M.AMS.		unknown
+%F.C.M.r.AMS.ant.	unknown
+%S.p.C.			unknown
+%F.C.M.para.		unknown
+%F.C.M.r.asc.		unknown
+# ces deux-la pour 'backwards compatibility'...
+%F.C.M.para.AMS.r.asc.	unknown
+%F.C.M.sup.asc.inf.	unknown
+# ces deux-la pour retraduction interne
+%F.C.M.ant.		unknown
+%F.C.M.post.		unknown
+%S.intraCing.		unknown
+%S.Call.		unknown
+%S.C.LPC.		unknown
+$FACEINTERNE.PO
+%S.s.P.			unknown
+%S.Pa.int.		unknown
+%S.Pa.int.ant.		unknown
+%S.Pa.int.post.		unknown
+%F.P.O.			unknown
+%F.P.O.sup.		unknown
+%F.P.O.inf.		unknown
+%S.Cu.sag.inf.		unknown
+%S.Cu.sag.sup.		unknown
+%S.Cu.vert.		unknown
+# celui-la pour retraduction interne
+%S.Cu.			unknown
+%S.Li.			unknown
+$PARIETAL
+%S.Par.x.		unknown
+%S.Pa.sup.		unknown
+%S.Pa.t.		unknown
+%S.Po.C.		unknown
+%S.Po.C.sup.		unknown
+%S.Po.C.br.LPS		unknown
+%S.Po.C.br.LPI		unknown
+%S.Po.C.br.GPOC		unknown
+%S.GSM.			unknown
+%F.I.P.			unknown
+%F.I.P.Po.C.		unknown
+%F.I.P.Po.C.sup.	unknown
+%F.I.P.Po.C.inf.	unknown
+%F.I.P.r.trans.		unknown
+%F.I.P.Horiz.		unknown
+%F.I.P.ParO.		unknown
+%F.I.P.ParO.sup.	unknown
+%F.I.P.ParO.inf.	unknown
+%F.I.P.r.desc.		unknown
+%F.I.P.r.asc.		unknown
+%F.I.P.r.int.1		unknown
+%F.I.P.r.int.2		unknown
+$OCCIPITAL
+%OCCIPITAL		unknown
+%S.O.x.			unknown
+%S.O.t.			unknown
+%S.Oc.Te.lat.		unknown
+%S.I.O.			unknown
+%S.O.L.			unknown
+%S.O.L.ant.		unknown
+%S.O.L.post.		unknown
+%S.Lu.			unknown
+%S.r.Lu.		unknown
+%S.O.i.			unknown
+%S.O.a.			unknown
+%I.Pr.O.		unknown
+$C.CALCARIN
+%F.Cal.ant.		S.Calc.
+%Sc.Cal.		S.Calc.
+%S.r.Cal.		S.Calc.
+%S.Cal.externe.		S.Calc.
+# celui-la pour retraduction interne
+%F.Cal.ant.-Sc.Cal.	S.Calc.
+%S.O.p.			unknown
+$TEMPORAL-EXT
+%S.T.x.			unknown
+%S.T.pol.		unknown
+%S.T.pol.sup.		unknown
+%S.T.pol.inf.		unknown
+%S.T.s.			unknown
+%S.T.s.ant.		unknown
+%S.T.s.moy.		unknown
+%S.ac.                  unknown
+%S.T.s.post.		unknown
+%S.T.s.ter.asc.ant.	unknown
+%S.T.s.horiz.		unknown
+%S.T.s.ter.asc.post.	unknown
+%S.T.post.              unknown
+%S.T.i.                 unknown
+%S.T.i.ant.		unknown
+%S.T.i.ant.R.ant.	unknown
+%S.T.i.ant.R.moy.	unknown
+%S.T.i.post.		unknown
+%S.T.i.post.R.post.	unknown
+%S.T.i.post.R.desc.	unknown
+%S.O.T.marg.		unknown
+$TEMPORAL-BASAL
+%S.O.T.lat.		unknown
+%S.O.T.lat.ant.		unknown
+%S.O.T.lat.post.	unknown
+%S.O.T.lat.int.		unknown
+%S.O.T.lat.med.		unknown
+%F.Coll.		unknown
+%F.Coll.R.tr.ant.	unknown
+%F.Coll.R.PH.		unknown
+%F.Coll.r.ter.		unknown
+%F.Coll.r.IL.		unknown
+%S.U.			unknown
+%S.Rh.			unknown
+%S.h.			unknown
+$INSULA
+%INSULA			unknown
+%S.I.Cir.		unknown
+%S.I.C.			unknown
+%S.I.Ct.		unknown
+%S.I.Ct.ant.		unknown
+%S.I.Ct.post.		unknown
+%S.I.Lg.		unknown
+%S.I.Falc.		unknown
+
